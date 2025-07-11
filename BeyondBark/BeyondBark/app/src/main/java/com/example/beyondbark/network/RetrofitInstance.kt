@@ -10,7 +10,7 @@ import java.util.concurrent.TimeUnit
 object RetrofitInstance {
 
     private const val BASE_URL = "https://api.netmind.ai/inference-api/openai/v1/"
-    private const val API_KEY = "60a051b94e6b40c18b10faf6a79c4e2c" // <-- Replace with your real API key
+    private const val API_KEY = "" // <-- Replace with your real API key
 
     private val authInterceptor = Interceptor { chain ->
         val original: Request = chain.request()
