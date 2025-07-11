@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "421002154232",
+    "project_id": "beyond-bark",
+    "storage_bucket": "beyond-bark.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421002154232:android:7a72ea64415a14fdcbeb0d",
+        "android_client_info": {
+          "package_name": "com.example.beyondbark"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJNfruxIIXlM-MAADGTf3iGizJ5Gf1yog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
